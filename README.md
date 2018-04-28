@@ -1,2 +1,2 @@
-# RandLetter3
-Randomly choose letters
+# RandLetter
+Building RandLetter package in R
